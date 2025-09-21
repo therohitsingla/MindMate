@@ -1,12 +1,23 @@
-# React + Vite
+# 🧠 MindMate
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**MindMate** is a personal journaling and mental wellness tracker web app built using the MERN stack. It allows users to log their daily mood, write journals, and gain insights into their emotional patterns over time.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 📅 **Daily Journal**: Write daily entries with timestamped reflections.
+- 😊 **Mood Tracker**: Select and record your mood each day.
+- 📊 **Insights Dashboard**: Visualize mood trends over time using charts.
+- 🔒 **Authentication**: Sign up, log in, and manage sessions securely.
+- ☁️ **Cloud-based**: All entries are saved to a backend MongoDB database.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+| Frontend        | Backend         | Database     | Others             |
+|-----------------|------------------|--------------|--------------------|
+| React.js        | Node.js + Express | MongoDB      | Axios, Chart.js or Recharts |
+
+---
