@@ -20,4 +20,10 @@
 |-----------------|------------------|--------------|--------------------|
 | React.js        | Node.js + Express | MongoDB      | Axios, Chart.js or Recharts |
 
+
 ---
+
+
+Live Link:-
+
+https://mind-mate-dun.vercel.app/
